@@ -1,6 +1,7 @@
 {
   "extends": "airbnb",
   "rules": {
+    "import/no-extraneous-dependencies": ["error", { "devDependencies": true }],
     "react/prop-types": 0,
     "linebreak-style": "off",
     "max-len": "warn",
@@ -14,6 +15,7 @@
     "jsx-a11y/alt-text": "off"
   },
   "env": {
-    "browser": true
+    "browser": true,
+    "jquery": true
   }
 }

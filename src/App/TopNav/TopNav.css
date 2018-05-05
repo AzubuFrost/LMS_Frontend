@@ -1,0 +1,28 @@
+.ui.menu .item.topmenu{
+    /* margin-left:-50px; */
+    font-size:17px;
+    
+}
+.ui.menu .item.topmenu:before{
+    width:0px;
+}
+.ui.inverted.blue.menu, .ui.inverted.menu .blue.active.item{
+    background-color:#2b597c;
+}
+i.icon{
+    height:25px;
+}
+.ui.floating.label{
+    top:15px;
+    left:50px;
+}
+.ui.simple.dropdown.item{
+    margin-right:auto;
+}
+.item.right{
+    position:realtive;
+    right:auto;
+}
+.react-calendar{
+    width: auto;
+}

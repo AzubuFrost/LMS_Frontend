@@ -1,0 +1,10 @@
+export { default as CourseListView } from './Course/CourseListView/CourseListView';
+export { default as CourseDetailsView } from './Course/CourseDetailsView/CourseDetailsView';
+export { default as LecturerListView } from './Lecturer/LecturerListView/LecturerListView';
+export { default as LecturerDetailsView } from './Lecturer/LecturerDetailsView/LecturerDetailsView';
+export { default as StudentListView } from './Student/StudentListView/StudentListView';
+export { default as StudentDetailsView } from './Student/StudentDetailsView/StudentDetailsView';
+export { default as Register } from './User/Register/register';
+export { default as Login } from './User/Login/login';
+export { default as Logout } from './User/Logout/logout';
+export { default as DashBoard } from './DashBoard/DashBoard';

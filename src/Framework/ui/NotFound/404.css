@@ -1,0 +1,19 @@
+._404{
+    font-size: 220px;
+    color:rgb(33,133,208);
+    text-align:center;
+    margin-top:100px;
+    z-index: 2;
+    height: 200px;
+    letter-spacing: 15px;
+}
+._2{
+    text-align:center;
+    color:rgb(33,133,208);
+    display:block;
+    font-size: 20px;
+            }
+.ui.inverted.blue.button{
+    color:rgb(33,133,208);
+}
+           

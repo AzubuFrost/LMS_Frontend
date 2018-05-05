@@ -1,0 +1,30 @@
+.ui.sidebar{
+    position: fixed;
+    top: 56.5px;
+}
+.ui.small.circular.image{
+    float:left;
+    margin-right: 10px;
+    margin-top:0px;
+    width:75px;
+    height:auto;
+}
+.ui.inverted.menu{
+    background-color:rgb(92,103,114);
+}
+.ui.menu .item.userinfo{
+    padding-bottom:20px;
+}
+.item-username{
+    position: relative;
+    left:0px;
+    top:0px;
+}
+.item-type.green{
+    color:green;
+}
+.item-type.yellow{
+    color:yellow;
+}
+
+    
